@@ -26,7 +26,7 @@ export default function Home() {
       <section className="text-[#ffffffc5] max-w-7xl mx-auto">
         <div className="relative   text-center ">
           <div className=" px-6 flex flex-col items-center justify-center space-y-4">
-            <h1 className="text-3xl text-[#a0d1d5] font-semibold md:text-4xl leading-13">
+            <h1 className="text-3xl text-[#a0d1d5] font-semibold md:text-4xl leading-13 mt-6">
               Bet626 Game APK – Download & Start Earning Real Money Today!
             </h1>
             <p className="md:text-lg">
