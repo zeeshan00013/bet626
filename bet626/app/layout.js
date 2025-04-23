@@ -24,7 +24,7 @@ export const metadata = {
   openGraph: {
     title: "Create Next App",
     description: "Next.js app for building scalable applications",
-    url: "https://www.bet626game.cc",
+    url: "https://bet626game.cc",
     image: "/path/to/og-image.jpg",
     type: "website",
   },
