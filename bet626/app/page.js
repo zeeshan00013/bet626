@@ -45,7 +45,7 @@ export default function Home() {
         <div className="text-[#000000] flex flex-col items-center justify-center w-full mt-10">
           <h2
             id="game-info-heading"
-            className="text-4xl font-semibold mb-4 text-[#a0d1d5]"
+            className="text-4xl text-center font-semibold mb-4 text-[#a0d1d5]"
           >
             Details of Bet626 Game
           </h2>
