@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://safa777game.pro
+Host: https://www.bet626game.cc
 
 # Sitemaps
-Sitemap: https://safa777game.pro/sitemap.xml
+Sitemap: https://www.bet626game.cc/sitemap.xml

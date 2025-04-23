@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: "https://safa777game.pro",
+  siteUrl: "https://www.bet626game.cc",
   generateRobotsTxt: true,
   generateIndexSitemap: false,
   sitemapSize: 7000,
