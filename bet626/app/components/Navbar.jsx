@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import betlogo from "../Images/betlogo.png";
+import betlogo from "../Images/bET626.webp";
 import { useState } from "react";
 import Image from "next/image";
 
@@ -9,15 +9,14 @@ export default function Navbar() {
 
   return (
     <header className="bg-[#0a767f] shadow-md sticky top-0 z-50">
-      <nav className="container mx-auto px-4 md:px-10 py-5 flex items-center justify-between">
+      <nav className="container mx-auto px-4 md:px-10 flex items-center justify-between">
         <div className="text-xl font-bold text-[#f0c059c5]">
           <Link href="/">
             <Image
               src={betlogo}
               alt="bet626 game"
-              width={150}
-              height={200}
-              className="w-52 h-15"
+              className="w-60 h-32 "
+              priority
             />
           </Link>
         </div>

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import BetBanner from "./Images/bannerbet.png";
+import BetBanner from "./Images/bannerbet.webp";
 import Features from "./components/Features";
 import Carousel from "./components/Caurosel";
 import Conclusion from "./components/Conclusion";
