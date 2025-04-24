@@ -26,14 +26,11 @@ export default function Navbar() {
             <Link href="/">Home</Link>
           </li>
           <li>
-            <Link href="/about">About</Link>
-          </li>
-          <li>
-            <Link href="/download">Download</Link>
+            <Link href="/">About</Link>
           </li>
 
           <li>
-            <Link href="/contact">Contact</Link>
+            <Link href="/">Contact</Link>
           </li>
         </ul>
 
@@ -73,16 +70,11 @@ export default function Navbar() {
               <Link href="/">Home</Link>
             </li>
             <li>
-              <Link href="/about">About</Link>
+              <Link href="/">About</Link>
             </li>
+
             <li>
-              <Link href="/download">Download</Link>
-            </li>
-            <li>
-              <Link href="/faq">FAQ</Link>
-            </li>
-            <li>
-              <Link href="/contact">Contact</Link>
+              <Link href="/">Contact</Link>
             </li>
           </ul>
         </div>
