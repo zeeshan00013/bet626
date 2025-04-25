@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Bet626 Game – Play & Win Big Now Real Money at Top Online",
+  title: "Bet626 Game – Play & Win Big Real Money at Top Online Paksitan",
   description:
     "Join Bet626 Game and start winning real money today! Best online betting games for beginners. Play safe online Get free bonuses now  and win big rewards.",
   keywords:
