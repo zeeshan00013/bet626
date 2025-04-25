@@ -19,6 +19,14 @@ const Features = () => {
           </div>
           <div className="text-center">
             <h3 className="text-xl font-semibold text-[#ffffffc5] mb-2">
+              Attractive Bonuses
+            </h3>
+            <p className="text-[#ffffffc5]">
+              Provides welcome bonuses, daily rewards, and referral programs.
+            </p>
+          </div>
+          <div className="text-center">
+            <h3 className="text-xl font-semibold text-[#ffffffc5] mb-2">
               Mobile Betting Apps
             </h3>
             <p className="text-[#ffffffc5]">

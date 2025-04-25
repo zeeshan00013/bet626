@@ -30,9 +30,12 @@ export default function Home() {
               Bet626 Game APK – Download & Start Earning Real Money Today!
             </h1>
             <p className="md:text-lg">
-              Join the excitement at Bet626! Discover safe, thrilling{" "}
-              <em>online betting games</em> for all skill levels. Start your
-              adventure now!
+              <em>Bet626 Game</em> is a leading online gaming platform in
+              Pakistan, offering a diverse range of casino games and real-money
+              earning opportunities. With its user-friendly interface, secure
+              transactions, and engaging gameplay, This game has become a
+              preferred choice for both casual gamers and serious players
+              seeking entertainment and income.​
             </p>
             <a href="http://www.bet626.com/?r=oip2657">
               <button className="text-[#ffffff] rounded-lg py-2 px-3 bg-[#0a767f] mt-5 md:text-2xl flex items-center justify-center gap-2 cursor-pointer  w-full mx-auto">

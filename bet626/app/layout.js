@@ -16,9 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Bet626 Game – Play & Win Big Real Money at Top Online Paksitan",
   description:
-    "Join Bet626 Game and start winning real money today! Best online betting games for beginners. Play safe online Get free bonuses now  and win big rewards.",
+    "Join Bet626 Game and start winning real money today! Best online betting games for beginners. Play safe online Get free bonuses now and win big rewards.",
   keywords:
-    "online gambling games, free online gambling games,betting game platforms,betting game bonuses no deposit ",
+    "Bet626, Bet626 game , Bet626 online, free online gambling games,betting game bet626,betting game bonuses ,bet626 game download,bet626 game apk,bet626 game app,bet626 game online,bet626 game free bonuses,bet626 game real money,bet626 game play and win,bet626 game earn money",
   author: "zeeshan",
   viewport: "width=device-width, initial-scale=1",
   openGraph: {
