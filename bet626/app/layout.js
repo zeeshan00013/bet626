@@ -13,17 +13,22 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
-  title: "Bet626 Game – Play & Win Big Real Money at Top Online Paksitan",
+export const Metadata = {
+  metadataBase: new URL("https://bet626game.cc"),
+  keywords: [
+    "Bet626, Bet626 game Download, Bet 626, betting game bet626,bet626 game apk",
+  ],
+  title: {
+    default: "Bet626 Game – Play & Win Big Real Money at Top Online Paksitan ",
+    template: "%s | Bet626",
+  },
   description:
     "Join Bet626 Game and start winning real money today! Best online betting games for beginners. Play safe online Get free bonuses now and win big rewards.",
-  keywords:
-    "Bet626, Bet626 game , Bet626 online, free online gambling games,betting game bet626,betting game bonuses ,bet626 game download,bet626 game apk,bet626 game app,bet626 game online,bet626 game free bonuses,bet626 game real money,bet626 game play and win,bet626 game earn money",
+
   author: "zeeshan",
   viewport: "width=device-width, initial-scale=1",
   openGraph: {
-    title: "Create Next App",
-    description: "Next.js app for building scalable applications",
+    description: "best betting game app in pakitsna bet626",
     url: "https://bet626game.cc",
     image: "/path/to/og-image.jpg",
     type: "website",
