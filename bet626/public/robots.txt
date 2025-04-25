@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://bet626game.cc
+Host: https://www.bet626game.cc
 
 # Sitemaps
-Sitemap: https://bet626game.cc/sitemap.xml
+Sitemap: https://www.bet626game.cc/sitemap.xml
