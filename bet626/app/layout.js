@@ -30,14 +30,13 @@ export const Metadata = {
   openGraph: {
     description: "best betting game app in pakitsna bet626",
     url: "https://bet626game.cc",
-    image: "/path/to/og-image.jpg",
+    image: "./Images/626bet.webp",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     site: "@yourtwitterhandle",
-    title: "Create Next App",
-    description: "Next.js app for building scalable applications",
+    description: "Bet626 Game Download and start winning real money today",
     image: "/path/to/twitter-image.jpg",
   },
   alternates: {
