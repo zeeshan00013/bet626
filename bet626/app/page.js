@@ -10,6 +10,7 @@ import Rules from "./components/Rules";
 import HowToPlay from "./components/HowToPlay";
 import Games from "./components/Games";
 import EarnMoney from "./components/EarnMoney";
+import Link from "next/link";
 
 export default function Home() {
   const gameInfo = [
@@ -79,15 +80,18 @@ export default function Home() {
             What Is Bet626 Game?
           </h2>
           <p className="md:text-xl ">
-            Bet626 Game brings the thrill of online betting games to your
-            fingertips. This trusted platform offers safe betting games like
-            sports betting on soccer or NBA, vibrant slots, and live casino
-            tables. Fully licensed, Bet626 ensures secure, fair play for all.
-            Its betting game apps for Android and iOS let you wager anywhere,
-            with an easy-to-use interface perfect for beginners. From online
-            gambling games to live odds, Bet626 has it all. Want a fun, secure
-            betting experience? Bet626 is your go-to destination. Start
-            exploring its exciting games today!
+            <Link href={"https://bet626game.cc/"} className="m-1">
+              Bet626 apk
+            </Link>{" "}
+            brings the thrill of online betting games to your fingertips. This
+            trusted platform offers safe betting games like sports betting on
+            soccer or NBA, vibrant slots, and live casino tables. Fully
+            licensed, Bet626 ensures secure, fair play for all. Its betting game
+            apps for Android and iOS let you wager anywhere, with an easy-to-use
+            interface perfect for beginners. From online gambling games to live
+            odds, Bet626 has it all. Want a fun, secure betting experience?
+            Bet626 is your go-to destination. Start exploring its exciting games
+            today!
           </p>
         </div>
       </section>
