@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const Metadata = {
+export const metadata = {
   metadataBase: new URL("https://bet626game.cc"),
   keywords: [
     "Bet626, Bet626 game Download, Bet 626, betting game bet626,bet626 game apk",
