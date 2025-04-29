@@ -26,7 +26,6 @@ export const metadata = {
     "Join Bet626 Game and start winning real money today! Best online betting games for beginners. Play safe online Get free bonuses now and win big rewards.",
 
   author: "zeeshan",
-  viewport: "width=device-width, initial-scale=1",
   openGraph: {
     description: "best betting game app in pakitsna bet626",
     url: "https://bet626game.cc",
@@ -44,6 +43,10 @@ export const metadata = {
   },
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
 export default function RootLayout({ children }) {
   return (
     <html lang="en">

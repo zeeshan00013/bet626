@@ -1,7 +1,22 @@
-/** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: "https://www.bet626game.cc",
+  siteUrl: "https://bet626game.cc",
   generateRobotsTxt: true,
-  generateIndexSitemap: false,
-  sitemapSize: 7000,
+  changefreq: "daily",
+  priority: 0.7,
+  transform: async (config, url) => {
+    if (url.includes("/blog")) {
+      return {
+        loc: url,
+        lastmod: new Date().toISOString(),
+        changefreq: "weekly",
+        priority: 0.8,
+      };
+    }
+    return {
+      loc: url,
+      lastmod: new Date().toISOString(),
+      changefreq: "daily",
+      priority: 1.0,
+    };
+  },
 };
