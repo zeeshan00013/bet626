@@ -1,10 +1,9 @@
 import { Download } from "lucide-react";
-import Link from "next/link";
 import React from "react";
 
 const Conclusion = () => {
   return (
-    <section className="w-full mt-8 mb-8">
+    <section className="w-full mt-8 mb-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-[#a0d1d5]">
         <h2 className="text-3xl font-bold text-[#a0d1d5]  text-center mb-8">
           Why Bet626 Game is Your Ultimate Betting Destination

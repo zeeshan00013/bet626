@@ -15,18 +15,14 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   metadataBase: new URL("https://bet626game.cc"),
-  keywords: [
-    "Bet626, Bet626 game Download, Bet 626, betting game bet626,bet626 game apk",
-  ],
+  keywords: ["Bet626, Bet626 game Download, Bet626, bet626,bet626 game apk"],
   title: {
-    default: "Bet626 Game – Play & Win Big Real Money at Top Online Paksitan ",
+    default: "BET626 Game Download Pakistan (New Betting Apk) 2025",
     template: "%s | Bet626",
   },
   description:
-    "Join Bet626 Game and start winning real money today! Best online betting games for beginners. Play safe online Get free bonuses now and win big rewards.",
-
+    "Now a days bet626 game is the most famous betting game app in Pakistan. Earn big with small amount of money. ",
   author: "zeeshan",
-  viewport: "width=device-width, initial-scale=1",
   openGraph: {
     description: "best betting game app in pakitsna bet626",
     url: "https://bet626game.cc",
@@ -44,6 +40,10 @@ export const metadata = {
   },
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
