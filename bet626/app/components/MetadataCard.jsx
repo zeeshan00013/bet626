@@ -16,7 +16,7 @@ const MetadataCard = ({ icon, label, value }) => {
   }[icon];
 
   return (
-    <div className="bg-white rounded-lg shadow-md p-4 w-full md:w-48 flex flex-col items-center ">
+    <div className="bg-white rounded-lg shadow-md p-4 w-56 flex flex-col items-center ">
       <IconComponent className="text-green-600 mb-2" size={35} />
       <h3 className="font-bold text-gray-800 text-center">{label}</h3>
       <p className="text-gray-600 text-center">{value}</p>
